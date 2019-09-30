@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="fontType" format="enum">
+        <enum name="DIGITAL" value="0" />
+        <enum name="DIGITAL_ITALIC" value="1" />
+        <enum name="AVENIR_LIGHT" value="2" />
+
+    </attr>
+
+    <declare-styleable name="FontType">
+        <attr name="fontType" />
+    </declare-styleable>
+
+    <declare-styleable name="Label">
+        <attr name="fontType" />
+    </declare-styleable>
+
+    <declare-styleable name="EditTextView">
+        <attr name="fontType" />
+    </declare-styleable>
+
+    <attr name="themePrimary" format="reference" />
+    <attr name="themePrimaryDark" format="reference" />
+    <attr name="themeAccent" format="reference" />
+    <attr name="fontOperatorsColor" format="reference" />
+    <attr name="fontNumbersColor" format="reference" />
+    <attr name="fontDigitsColor" format="reference" />
+
+</resources>
