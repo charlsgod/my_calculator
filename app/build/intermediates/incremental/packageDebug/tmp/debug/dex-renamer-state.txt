@@ -1,0 +1,4 @@
+#Wed Jun 10 22:31:16 CLT 2020
+base.0=/Users/developer03/StudioProjects/my_calculator/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

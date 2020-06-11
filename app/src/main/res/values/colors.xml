@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="darkerGray">#46514f</color>
+
+    <!-- Default colors. -->
+    <color name="lightGray">#9ebccc</color>
+    <color name="darkGray">#6a8997</color>
+    <color name="orange">#ff7b00</color>
+
+    <!-- Second colors. -->
+    <color name="nacre">#ded8d8</color>
+    <color name="gray">#afa4a4</color>
+    <color name="purple">#91005a</color>
+
+    <!-- Font colors. -->
+    <color name="white">#fff</color>
+    <color name="black">#303030</color>
+</resources>
